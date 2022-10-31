@@ -25,3 +25,17 @@ int prime(int n)
 	}
 	return 0;
 }
+
+
+
+Test case :1
+1.N=5
+It is a prime number
+2.N= P
+Invalid output 
+3.N= 0
+It is a prime
+4.N=11
+It is a prime number 
+5.N= 7.2
+Invalid output 
